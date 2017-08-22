@@ -17,6 +17,7 @@
         Michael Allram
     </author>
     <gap:plugin name="cordova-plugin-whitelist" source="npm" />
+    <plugin name="cordova-plugin-inappbrowser" spec="~1.7.1" />
     <access origin="*" />
     <allow-navigation href="http://*/*" />
     <allow-intent href="https://*/*" />
